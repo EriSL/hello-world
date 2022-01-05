@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorld",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "afd13c5e"
+}
